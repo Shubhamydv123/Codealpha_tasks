@@ -21,7 +21,7 @@ A colorful and simple calculator built using HTML, CSS, and JavaScript. Performs
 An interactive image gallery where users can filter images by category. Built using HTML, CSS, and JavaScript.
 
 - 📁 Folder: `image-gallery`
-- 🌐 **Live Demo**: [View Gallery](https://shubhamydv123.github.io/codealpha/image-gallery)
+- 🌐 **Live Demo**: [View Gallery](https://shubhamydv123.github.io/codealpha/image_gallery)
 
 ---
 
@@ -30,7 +30,7 @@ An interactive image gallery where users can filter images by category. Built us
 My personal portfolio showcasing my skills, resume, and projects with smooth UI.
 
 - 📁 Folder: `portfolio`
-- 🌐 **Live Demo**: [View Portfolio](https://shubhamydv123.github.io/codealpha/portfolio-site)
+- 🌐 **Live Demo**: [View Portfolio](https://shubhamydv123.github.io/codealpha/portfolio_site)
 
 ---
 
