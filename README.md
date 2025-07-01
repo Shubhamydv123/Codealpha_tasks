@@ -12,7 +12,7 @@ Each project is inside its own folder and deployed via **GitHub Pages**.
 A colorful and simple calculator built using HTML, CSS, and JavaScript. Performs basic math operations in a responsive layout.
 
 - 📁 Folder: `calculator`
-- 🌐 **Live Demo**: [View Calculator](https://shubhamydv123.github.io/codealpha/calculator/)
+- 🌐 **Live Demo**: [View Calculator](https://shubhamydv123.github.io/codealpha_tasks/calculator)
 
 ---
 
